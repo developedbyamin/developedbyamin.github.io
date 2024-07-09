@@ -235,20 +235,33 @@ img {
 }
 
 /* ===== ABOUT =====*/
-.about__container {
-  row-gap: 2rem;
+.about {
   text-align: center;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
+
 .about__subtitle {
-  margin-bottom: var(--mb-2);
+  margin-bottom: 1.5rem;
 }
-.about__img {
-  justify-self: center;
+
+.about__text {
+  margin-bottom: 0;
 }
-.about__img img {
-  width: 200px;
-  border-radius: 0.5rem;
+
+@media screen and (min-width: 768px) {
+  .about {
+      padding-top: 4rem;
+      padding-bottom: 4rem;
+  }
+
+  .about__content {
+      max-width: 600px;
+      margin: 0 auto;
+      text-align: left;
+  }
 }
+
 
 /* ===== SKILLS =====*/
 .skills__container {

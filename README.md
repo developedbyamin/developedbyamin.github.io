@@ -17,19 +17,15 @@ Feel free to reach out to me via [developedbyamin@gmail.com](mailto:developedbya
 *Who am I*
 
 ### Screenshot 2
-![Screenshot 2](assets/img/ss2.png)
-*About me*
-
-### Screenshot 3
-![Screenshot 3](assets/img/ss3.png)
+![Screenshot 2](assets/img/ss3.png)
 *Skills*
 
-### Screenshot 4
-![Screenshot 4](assets/img/ss4.png)
+### Screenshot 3
+![Screenshot 3](assets/img/ss4.png)
 *Works*
 
-### Screenshot 5
-![Screenshot 5](assets/img/ss5.png)
+### Screenshot 4
+![Screenshot 4](assets/img/ss5.png)
 *Comment section*
 
 ---
