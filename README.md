@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Portfolio
 
 Welcome to my portfolio repository! Here you'll find a collection of my work, projects, and achievements. Feel free to explore and get in touch if you have any questions or collaboration ideas.
@@ -31,3 +32,7 @@ Feel free to reach out to me via [developedbyamin@gmail.com](mailto:developedbya
 ---
 
 Thank you for visiting my portfolio! Feel free to explore the repositories linked above and reach out if you have any questions or would like to collaborate. You can edit and use.
+=======
+# Portfolio_13-07-24
+Create a stunning and responsive personal portfolio website using HTML, CSS, and JavaScript!
+>>>>>>> 9f57975 (v2)
