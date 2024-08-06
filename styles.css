@@ -255,7 +255,7 @@ body {
   font-weight: 700;
   background: linear-gradient(
     to right bottom,
-    rgb(0, 132, 255) 25%,
+    rgb(45, 136, 255) 25%,
     var(--primary-color-dark)
   );
   -webkit-background-clip: text;
